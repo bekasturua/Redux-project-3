@@ -19,5 +19,6 @@
   "homepage": "https://github.com/bekasturua/Redux-project-3#readme",
   "dependencies": {
     "redux": "^4.2.0"
-  }
+  },
+  "devDependencies": {}
 }
